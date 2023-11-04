@@ -52,7 +52,7 @@ Moving beyond who they were and where they hailed from, I delved into the 'how',
 
 I drilled down further, seeking the sources of their wealth. The roots of billionaire wealth are diverse, yet real estate stands out as a primary source. Investments, diversified portfolios, pharmaceuticals, and software also emerge as significant contributors.
 
-![Sources of Wealth](https://github.com/yourusername/yourrepository/blob/main/Sources.png)
+![Sources of Wealth](https://github.com/hanheeds/billionaires/blob/main/images/Sources.png)
 
 With the sectors and sources of wealth laid bare, I turned my attention to the broader economic and geopolitical context, where individual wealth meets national economy.
 
