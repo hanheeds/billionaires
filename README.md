@@ -14,7 +14,7 @@ The exploration began with sourcing a comprehensive 2023 dataset detailing stati
 
 At the heart of the demographic examination is age — a crucial factor in wealth accumulation. The data suggests a bell-shaped age distribution, with the pinnacle between 50 and 75 years old. This distribution implies that youth and very old age are less associated with this level of affluence. This makes sense as it is very uncommon that if you are younger than 50 years old, you are most likely still building up wealth. I’d assume that the number drops off after 75 not because of old age, but because of death. The mean age of death of the world is 73, which pretty much lines up with the drop off the number of billionaires.
 
-![Age Distribution](https://github.com/hanheeds/Age.png)
+![Age Distribution](https://github.com/hanheeds/billionaires/images/Age.png)
 
 ### Gender Distribution
 
