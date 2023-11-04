@@ -4,8 +4,6 @@ In an endeavor to understand the underpinnings of vast wealth, I embarked on an 
 
 ### What are the most common characteristics of billionaires?
 
-![Billionaire Traits Overview](https://github.com/yourusername/yourrepository/blob/main/billionaire_traits_overview.png)
-
 ## Dataset Overview
 
 The exploration began with sourcing a comprehensive 2023 dataset detailing statistics on all recorded billionaires, yielding an extensive list of 2,640 individuals (rows) whose financial stature towers above the rest. As the organization and title column of the dataset were very sparse and not important to this topic, those columns were removed from the dataset during data cleaning.
@@ -16,7 +14,7 @@ The exploration began with sourcing a comprehensive 2023 dataset detailing stati
 
 At the heart of the demographic examination is age — a crucial factor in wealth accumulation. The data suggests a bell-shaped age distribution, with the pinnacle between 50 and 75 years old. This distribution implies that youth and very old age are less associated with this level of affluence. This makes sense as it is very uncommon that if you are younger than 50 years old, you are most likely still building up wealth. I’d assume that the number drops off after 75 not because of old age, but because of death. The mean age of death of the world is 73, which pretty much lines up with the drop off the number of billionaires.
 
-![Age Distribution](https://github.com/yourusername/yourrepository/blob/main/age_distribution.png)
+![Age Distribution](https://github.com/hanheeds/Age.png)
 
 ### Gender Distribution
 
