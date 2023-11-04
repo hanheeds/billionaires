@@ -2,7 +2,7 @@
 
 In an endeavor to understand the underpinnings of vast wealth, I embarked on an exploratory analysis of billionaires' traits, aiming to uncover the patterns and characteristics shared among the world's richest. As thus, my initial question as an aspiring wealthy person was as follows:
 
-*What are the most common characteristics of billionaires?*
+### What are the most common characteristics of billionaires?
 
 ![Billionaire Traits Overview](https://github.com/yourusername/yourrepository/blob/main/billionaire_traits_overview.png)
 
